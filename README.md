@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html)](https://skillicons.dev)
+
+
+
+
+
+
 <!--
 **dan-develop/dan-develop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
