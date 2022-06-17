@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi there 👋  
+
+I am interested in learning more about application development, machine learning, and how we can apply them to our lives!
 
 
-
-[![My Skills](https://skillicons.dev/icons?i=js,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,nodejs,flutter,dart,gcp,firebase,docker,kubernetes,ts,tensorflow,arduino,raspberrypi,bash,)](https://skillicons.dev)
 
 
 
