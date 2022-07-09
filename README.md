@@ -1,10 +1,10 @@
-### Hi there 👋  
 
-I am interested in learning more about application development, machine learning, and how we can apply them to our lives!
+
+<p align="center"> Interested in application development, machine learning, and how we can apply great tech to our lives!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=vscode,ts,flutter,dart,gcp,firebase,docker,kubernetes,py,tensorflow,arduino,raspberrypi,bash)" />
+    <img src="https://skillicons.dev/icons?i=vscode,ts,flutter,dart,gcp,firebase,docker,kubernetes,py,tensorflow,arduino,raspberrypi,bash" />
   </a>
 </p>
 
