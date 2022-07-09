@@ -4,16 +4,9 @@ I am interested in learning more about application development, machine learning
 
 <p align="center">
   <a href="https://skillicons.dev">
-[![My Skills](https://skillicons.dev/icons?i=vscode,ts,flutter,dart,gcp,firebase,docker,kubernetes,py,tensorflow,arduino,raspberrypi,bash,)](https://skillicons.dev)
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=vscode,ts,flutter,dart,gcp,firebase,docker,kubernetes,py,tensorflow,arduino,raspberrypi,bash)" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
-
 
 
 <!--
